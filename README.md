@@ -3,10 +3,16 @@
 ## Introduction
 Welcome to the C_ProgrammingProjects repository! This collection includes various projects implemented using the C programming language. Each project focuses on a specific concept, algorithm, or problem, providing hands-on experience and practical examples.
 
+## Projects Included
+Here's a list of some of the projects included in this repository:
+
+| **No.** | **Name** | 
+| ------- | -------- | 
+|	**01**	| **[]()** |
+
 
 ## Prerequisites
 Make sure you have a C compiler installed (e.g., GCC). Some projects may require additional libraries or software, which will be specified in their respective folders.
-
 
 ## How can I read this tutorial without an Internet connection? <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="20" />
 
