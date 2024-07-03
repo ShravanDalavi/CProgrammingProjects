@@ -11,27 +11,7 @@ Here's a list of some of the projects included in this repository:
 |	**01**	| **[]()** |
 
 ## How to Use This Repository
-To run any of the projects, follow these steps:
 
-1. **Clone the Repository:**
-   - Open your terminal and run:
-     ```sh
-     git clone https://github.com/your-username/python-mini-projects.git
-     cd python-mini-projects
-     ```
-
-2. **Navigate to the Project Directory:**
-   - Each project is located in its own directory. Navigate to the directory of the project you want to run, for example:
-     ```sh
-     cd project_name
-     ```
-
-3. **Run the Project:**
-   - Use the following command to run the project:
-     ```sh
-     python project_file.py
-     ```
-   - Replace `project_file.py` with the actual file name of the project you want to run.
 
 ## Prerequisites
 Make sure you have a C compiler installed (e.g., GCC). Some projects may require additional libraries or software, which will be specified in their respective folders.
