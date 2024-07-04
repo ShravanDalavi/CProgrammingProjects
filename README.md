@@ -9,6 +9,7 @@ Here's a list of some of the projects included in this repository:
 | **No.** | **Name** | 
 | ------- | -------- | 
 |	**01**	| **[Attendance Monitoring System]()** |
+|	**02**	| **[Bank Management System]()** |
 
 
 ## How to Run
