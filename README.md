@@ -18,7 +18,6 @@ To run any of these projects, follow these general steps:
 git clone https://github.com/your-username/repository-name.git
 cd repository-name
   ```
-
 ### 2. Compile and Execute:
 Each project typically includes a 'README.md' file with specific instructions on how to compile and run the program. Navigate to the projectdirectory and follow the instructions provided in the README.md file.
 Replace repository-name with the actual repository name and executable_name with the name of the compiled executable specific to each project.
