@@ -43,7 +43,7 @@ gcc attendance_monitoring.c -o attendance_monitoring
 5. Follow the on-screen instructions: The program will display a menu with options to add records, display records, search records, delete records, or exit the program. Enter the corresponding number to choose an option.
 
 ## Output
-```bash
+```mathematica
 Attendance Monitoring System
 1. Add Record
 2. Display Records
