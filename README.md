@@ -37,7 +37,6 @@ cd attendance-monitoring-system
 gcc main.c -o attendance
 ./attendance
  ```
-
 Replace repository-name with the actual repository name for each project.
 
 ## Prerequisites
