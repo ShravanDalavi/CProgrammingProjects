@@ -8,8 +8,8 @@ Here's a list of some of the projects included in this repository:
 
 | **No.** | **Name** | 
 | ------- | -------- | 
-|	**01**	| **[Attendance Monitoring System]()** |
-|	**02**	| **[Bank Management System]()** |
+|	**01**	| **[Attendance Monitoring System](https://github.com/ShravanDalavi/C_ProgrammingProjects/tree/main/projects/Attendance%20Monitoring%20System)** |
+|	**02**	| **[Bank Management System](https://github.com/ShravanDalavi/C_ProgrammingProjects/tree/main/projects/Bank%20Management%20System)** |
 
 
 ## How to Run
