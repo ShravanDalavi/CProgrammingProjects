@@ -23,7 +23,6 @@ cd repository-name
 Each project typically includes a 'README.md' file with specific instructions on how to compile and run the program. Navigate to the projectdirectory and follow the instructions provided in the README.md file.
 Replace repository-name with the actual repository name and executable_name with the name of the compiled executable specific to each project.
 
-
 ### 3. General Steps:
 
 - Navigate to the project directory.
