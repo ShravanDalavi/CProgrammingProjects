@@ -55,7 +55,7 @@ Enter your choice:
 ```
 
 ## Output
-```bash 
+```mathematica
 Billing System
 1. Add Item
 2. Display Items
