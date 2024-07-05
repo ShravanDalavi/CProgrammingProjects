@@ -54,7 +54,7 @@ Billing System
 Enter your choice: 
 ```
 
-## Example
+## Output
 ```bash 
 Billing System
 1. Add Item
