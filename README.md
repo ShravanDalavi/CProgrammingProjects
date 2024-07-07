@@ -10,10 +10,9 @@ Here's a list of some of the projects included in this repository:
 |	**02**	| **[Bank Management System](https://github.com/ShravanDalavi/C_ProgrammingProjects/tree/main/projects/Bank%20Management%20System)** |
 |	**03**	| **[Billing System](https://github.com/ShravanDalavi/C_ProgrammingProjects/tree/main/projects/Billing%20System)** |
 |	**04**	| **[Bus Reservation System](https://github.com/ShravanDalavi/C_ProgrammingProjects/tree/main/projects/Bus%20Reservation%20System)** |
-
+|	**05**	| **[Calendar Application](https://github.com/ShravanDalavi/C_ProgrammingProjects/tree/main/projects/Calendar%20Application)** |
 ## How to Run
 To run any of these projects, follow these general steps:
-
 ### 1. Clone the Repository:
 
   ```sh
@@ -56,9 +55,8 @@ Make sure you have a C compiler installed (e.g., GCC). Some projects may require
     **`Kernel > Restart & Clear Output`**
     
 This will clear all the outputs and now you can understand each statement and learn interactively.
-
+<br>
 If you have git and you know how to use it, you can also clone the repository instead of downloading a zip and extracting it. An advantage with doing it this way is that you don't need to download the whole tutorial again to get the latest version of it, all you need to do is to pull with git and run ipython notebook again.
-
 ## Licence 📜
 You may use this tutorial freely at your own risk. See [LICENSE](./LICENSE).
 ## Contributors ✨
@@ -68,7 +66,6 @@ You may use this tutorial freely at your own risk. See [LICENSE](./LICENSE).
 - Ashwini Sonawane
   - Contact: ashwinisonawane@gmail.com
   - GitHub:  [Email](https://github.com/SonawaneAshwini)
-
 **If you like this tutorial, please [give it a ⭐ star](https://github.com/ShravanDalavi/Simple-Python-Mini-Projects).**
 
 **Thank you for visiting my repository! I hope you find my projects interesting and useful. 😊**
