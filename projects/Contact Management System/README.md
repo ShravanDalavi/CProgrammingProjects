@@ -8,7 +8,6 @@ This program is a basic implementation of a contact management system. It suppor
 - Display all contacts
 - Search for a contact by ID
 - Delete a contact by ID
-
 ## Features
 - Add Contact: Allows you to add a new contact to the list.
 - Display Contacts: Displays all contacts currently in the list.
