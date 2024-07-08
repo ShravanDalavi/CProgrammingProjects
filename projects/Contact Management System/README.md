@@ -1,6 +1,5 @@
 # Contact Management System
 A simple C program to manage contacts. The application allows you to add, view, search, and delete contact records.
-
 ## Description
 This program is a basic implementation of a contact management system. It supports the following functionalities:
 
