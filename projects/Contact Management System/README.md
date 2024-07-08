@@ -22,7 +22,6 @@ The program uses the standard C library modules:
 
 ## How to Install Required Modules
 No additional modules need to be installed. Ensure you have a C compiler like `gcc` installed on your system.
-
 ## How to Run the Script
 Follow these steps to compile and run the program:
 1. Save the code: Save the provided code to a file named `contact_management.c`.
