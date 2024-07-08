@@ -54,8 +54,8 @@ Calendar Application
 Enter your choice: 
 ```
 
-## Example 
-```bash 
+## Output
+```mathematica
 Calendar Application
 1. Add Event
 2. Display Events
