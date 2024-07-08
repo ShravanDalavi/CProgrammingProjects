@@ -12,10 +12,8 @@ This program is a basic implementation of a contact management system. It suppor
 - Display Contacts: Displays all contacts currently in the list.
 - Search Contact: Search for a contact in the list by its ID.
 - Delete Contact: Delete a contact from the list by its ID.
-
 ## Required Modules
 The program uses the standard C library modules:
-
 - `stdio.h` for input/output functions
 - `stdlib.h` for memory allocation
 - `string.h` for string manipulation
