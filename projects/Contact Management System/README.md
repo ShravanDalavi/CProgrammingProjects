@@ -38,7 +38,7 @@ gcc contact_management.c -o contact_management
 ```
 5. Follow the on-screen instructions: The program will display a menu with options to add, display, search, delete contacts, or exit the program. Enter the corresponding number to choose an option.
 
-## Example
+## Output
 ```bash
 Contact Management System
 1. Add Contact
