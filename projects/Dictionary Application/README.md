@@ -55,7 +55,7 @@ Dictionary Application
 Enter your choice: 
 ```
 ## Output
-```bash 
+```mathematica
 Dictionary Application
 1. Add Word
 2. Display Words
