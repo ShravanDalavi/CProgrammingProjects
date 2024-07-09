@@ -12,6 +12,7 @@ Here's a list of some of the projects included in this repository:
 |	**04**	| **[Bus Reservation System](https://github.com/ShravanDalavi/C_ProgrammingProjects/tree/main/projects/Bus%20Reservation%20System)** |
 |	**05**	| **[Calendar Application](https://github.com/ShravanDalavi/C_ProgrammingProjects/tree/main/projects/Calendar%20Application)** |
 |	**06**	| **[Contact Management System](https://github.com/ShravanDalavi/C_ProgrammingProjects/tree/main/projects/Contact%20Management%20System)** |
+|	**07**	| **[Hotel Management System](https://github.com/ShravanDalavi/Simple-Python-Mini-Projects/tree/main/Hotel%20Management%20System)** |
 ## How to Run
 To run any of these projects, follow these general steps:
 ### 1. Clone the Repository:
