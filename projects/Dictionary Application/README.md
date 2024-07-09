@@ -54,7 +54,7 @@ Dictionary Application
 5. Exit
 Enter your choice: 
 ```
-## Example 
+## Output
 ```bash 
 Dictionary Application
 1. Add Word
