@@ -1,5 +1,6 @@
 # Employee Salary Slip Generation Program
 This program gathers employee details, calculates their salary components (HRA, DA, PF), and prints the salary slip in a formatted manner. It is implemented in C.
+
 ## Description
 The program defines a structure to store employee details such as ID, name, designation, and salary components. It includes functions to calculate the salary components and print the salary slip.
 ## Features
