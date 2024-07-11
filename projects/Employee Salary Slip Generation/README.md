@@ -24,7 +24,6 @@ gcc salary_slip.c -o salary_slip
 ```sh
 ./salary_slip
 ```
-
 ## Output
 ```yaml
 Enter Employee ID: 101
