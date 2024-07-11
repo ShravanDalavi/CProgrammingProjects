@@ -1,4 +1,4 @@
-# C_ProgrammingProjects
+# C_ProgrammingProjects\
 ## Introduction
 Welcome to the C_ProgrammingProjects repository! This collection includes various projects implemented using the C programming language. Each project focuses on a specific concept, algorithm, or problem, providing hands-on experience and practical examples.
 ## Projects Included
@@ -74,3 +74,4 @@ You may use this tutorial freely at your own risk. See [LICENSE](./LICENSE).
 **If you like this tutorial, please [give it a ⭐ star](https://github.com/ShravanDalavi/Simple-Python-Mini-Projects).**
 <br>
 **Thank you for visiting my repository! I hope you find my projects interesting and useful. 😊**
+<br>
