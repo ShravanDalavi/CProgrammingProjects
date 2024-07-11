@@ -12,7 +12,6 @@ The program defines a structure to store employee details such as ID, name, desi
 - String library (`<string.h>`)
 ## How to Install Required Modules
 No special installation is required as this program only uses standard C libraries, which are included in any standard C compiler.
-
 ## How to Run the Script
 1. Save the code to a file, e.g., salary_slip.c.
 2. Compile the program using a C compiler
