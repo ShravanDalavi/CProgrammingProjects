@@ -3,7 +3,6 @@ This program gathers employee details, calculates their salary components (HRA, 
 
 ## Description
 The program defines a structure to store employee details such as ID, name, designation, and salary components. It includes functions to calculate the salary components and print the salary slip.
-
 ## Features
 - Input employee details
 - Calculate salary components (HRA, DA, PF)
