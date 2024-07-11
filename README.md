@@ -52,7 +52,6 @@ Make sure you have a C compiler installed (e.g., GCC). Some projects may require
 1. Go [**`here`**](https://github.com/ShravanDalavi/C_ProgrammingProjects) and click the big green ➞  **`Code`** button in the top right of the page, then click ➞ [**`Download ZIP`**](https://github.com/shravandalavi/C_ProgrammingProjects/archive/refs/heads/main.zip).
 
   ![image](https://github.com/ShravanDalavi/Simple-Python-Mini-Projects/assets/172488772/fe6f519f-afbd-49d1-9efc-5f6b5f234340)
-
 2. Extract the ZIP and open it. Unfortunately I don't have any more specific instructions because how exactly this is done depends on which operating system you run.    
 3. Launch ipython notebook from the folder which contains the notebooks. Open each one of them
   
