@@ -16,7 +16,7 @@ Here's a list of some of the projects included in this repository:
 |	**09**	| **[Employee Salary Slip Generation](https://github.com/ShravanDalavi/C_ProgrammingProjects/tree/main/projects/Employee%20Salary%20Slip%20Generation)** |
 |	**10**	| **[File Management System](https://github.com/ShravanDalavi/C_ProgrammingProjects/tree/main/projects/File%20Management%20System)** |
 |	**11**	| **[Fitness Tracker](https://github.com/ShravanDalavi/C_ProgrammingProjects/tree/main/projects/Fitness%20Tracker)** |
-|	**12**	| **[Flight Reservation System](https://github.com/ShravanDalavi/C_ProgrammingProjects/tree/main/projects/Fitness%20Tracker)** |
+|	**12**	| **[Flight Reservation System](https://github.com/ShravanDalavi/C_ProgrammingProjects/tree/main/projects/Flight%20Reservation%20System)** |
 
 
 ## How to Run
