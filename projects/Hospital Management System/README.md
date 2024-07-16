@@ -29,7 +29,7 @@ gcc hospital_management.c -o hospital_management
 ```
 
 ## Output
-```bash 
+```yaml
 Hospital Management System
 1. Add Patient
 2. Display Patients
