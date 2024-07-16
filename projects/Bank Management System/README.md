@@ -1,9 +1,7 @@
 # Bank Management System
 This Bank Management System allows you to manage bank accounts, including creating new accounts, depositing money, withdrawing money, and displaying account details. It is implemented in C.
-
 ## Description
 The program defines a structure to store account information such as account number, account holder's name, and balance. It includes functions to create new accounts, deposit money into an account, withdraw money from an account, and display all account details.
-
 ## Features
 - Create a new bank account
 - Deposit money into an account
@@ -15,7 +13,6 @@ The program defines a structure to store account information such as account num
 - String library (`<string.h>`)
 ## How to Install Required Modules
 No special installation is required as this program only uses standard C libraries, which are included in any standard C compiler.
-
 ## How to Run the Script
 1. Save the code to a file, e.g., bank_management.c.
 2. Compile the program using a C compiler
