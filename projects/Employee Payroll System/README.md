@@ -1,9 +1,7 @@
 # Employee Payroll System 
 This Employee Payroll System allows you to manage employee records, calculate their salaries, and provide functionalities to add, display, and search for employees. It is implemented in C.
-
 ## Description
 The program defines a structure to store employee details such as ID, name, designation, and salary components. It includes functions to add new employees, display all employee records, search for an employee by ID, and calculate the gross and net salary for each employee based on their basic salary, HRA, DA, and PF.
-
 ## Features
 - Add a new employee record
 - Display all employee records
@@ -13,10 +11,8 @@ The program defines a structure to store employee details such as ID, name, desi
 - Standard C library (`<stdio.h>`)
 - Standard library (`<stdlib.h>`)
 - String library (`<string.h>`)
-
 ## How to Install Required Modules
 No special installation is required as this program only uses standard C libraries, which are included in any standard C compiler.
-
 ## How to Run the Script
 1. Save the code to a file, e.g., employee_payroll.c.
 2. Compile the program using a C compiler
@@ -84,4 +80,3 @@ Employee Payroll System
 4. Exit
 Enter your choice: 4
 ```
-
