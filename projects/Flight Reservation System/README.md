@@ -44,8 +44,8 @@ gcc flight_reservation.c -o flight_reservation
 ```
 5. Follow the on-screen instructions: The program will display a menu with options to add flights, display flights, reserve seats, display passengers, cancel reservations, or exit the program. Enter the corresponding number to choose an option.
 
-## Example
-```bash 
+## Output
+```yaml
 Flight Reservation System
 1. Add Flight
 2. Display Flights
