@@ -1,6 +1,5 @@
 # Fitness Tracker
 A simple C program to manage and track fitness activities. The application allows you to add, view, search, and delete fitness activity records.
-
 ## Description
 This program is a basic implementation of a fitness tracker system. It supports the following functionalities:
 
@@ -8,13 +7,11 @@ This program is a basic implementation of a fitness tracker system. It supports 
 - Display all fitness activities
 - Search for a specific activity by ID
 - Delete a fitness activity
-
 ## Features
 - Add Activity: Allows you to add a new fitness activity to the list.
 - Display Activities: Displays all fitness activities currently in the system.
 - Search Activity: Search for a fitness activity by ID.
 - Delete Activity: Delete a fitness activity by ID.
-
 ## Required Modules
 The program uses the standard C library modules:
 
@@ -24,7 +21,6 @@ The program uses the standard C library modules:
 
 ## How to Install Required Modules
 No additional modules need to be installed. Ensure you have a C compiler like `gcc` installed on your system.
-
 ## How to Run the Script
 Follow these steps to compile and run the program:
 
@@ -41,7 +37,6 @@ gcc fitness_tracker.c -o fitness_tracker
 ./fitness_tracker
 ```
 5. Follow the on-screen instructions: The program will display a menu with options to add activities, display activities, search activities, delete activities, or exit the program. Enter the corresponding number to choose an option.
-
 ## Output
 ```yaml
 Fitness Tracker System
