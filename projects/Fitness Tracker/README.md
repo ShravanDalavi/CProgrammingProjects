@@ -42,8 +42,8 @@ gcc fitness_tracker.c -o fitness_tracker
 ```
 5. Follow the on-screen instructions: The program will display a menu with options to add activities, display activities, search activities, delete activities, or exit the program. Enter the corresponding number to choose an option.
 
-## Example
-```bash 
+## Output
+```yaml
 Fitness Tracker System
 1. Add Activity
 2. Display Activities
