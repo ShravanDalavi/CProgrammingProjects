@@ -1,6 +1,5 @@
 # Attendance Monitoring System
 A simple C program to manage and monitor attendance records. The application allows you to add, view, search, and delete attendance records for students or employees.
-
 ## Description
 This program is a basic implementation of an attendance monitoring system. It supports the following functionalities:
 
@@ -24,7 +23,6 @@ The program uses the standard C library modules:
 
 ## How to Install Required Modules
 No additional modules need to be installed. Ensure you have a C compiler like `gcc` installed on your system.
-
 ## How to Run the Script
 Follow these steps to compile and run the program:
 
@@ -41,7 +39,6 @@ gcc attendance_monitoring.c -o attendance_monitoring
 ./attendance_monitoring
 ```
 5. Follow the on-screen instructions: The program will display a menu with options to add records, display records, search records, delete records, or exit the program. Enter the corresponding number to choose an option.
-
 ## Output
 ```mathematica
 Attendance Monitoring System
