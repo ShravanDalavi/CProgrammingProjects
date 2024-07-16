@@ -1,9 +1,7 @@
 # Simple Billing System
 
 ## Description
-
 This project implements a basic billing system in C that allows users to manage items, their prices, quantities, and generate bills/invoices. The system provides a text-based menu interface for user interaction, enabling users to add items to the inventory, display the inventory, and generate bills based on the items purchased.
-
 ## Features
 
 - **Add an Item:** Allows the user to add a new item by entering the item ID, name, price, and quantity.
@@ -12,19 +10,14 @@ This project implements a basic billing system in C that allows users to manage 
 - **Exit:** Exits the program.
 
 ## Required Modules
-
 - Standard I/O library (`stdio.h`)
 - Standard library (`stdlib.h`)
 - String library (`string.h`)
 
 These libraries are typically included by default with most C compilers.
-
 ## How to Install Required Modules
-
 No additional modules need to be installed. Ensure you have a C compiler (such as `gcc`) installed on your system.
-
 ## How to Run the Script
-
 1. **Clone the Repository:**
 
 ```sh
