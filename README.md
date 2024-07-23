@@ -22,6 +22,7 @@ Here's a list of some of the projects included in this repository:
 |	**15**	| **[Library Catalog System](https://github.com/ShravanDalavi/C_ProgrammingProjects/tree/main/projects/Library%20Catalog%20System)** |
 |	**16**	| **[Library Management System](https://github.com/ShravanDalavi/C_ProgrammingProjects/tree/main/projects/Library%20Management%20System)** |
 |	**17**	| **[Mini Voting System](https://github.com/ShravanDalavi/C_ProgrammingProjects/tree/main/projects/Mini%20Voting%20System)** |
+|	**18**	| **[Online Quize Application](https://github.com/ShravanDalavi/C_ProgrammingProjects/tree/main/projects/Mini%20Voting%20System)** |
 
 ## How to Run
 To run any of these projects, follow these general steps:
