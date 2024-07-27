@@ -26,7 +26,7 @@ Here's a list of some of the projects included in this repository:
 |	**18**	| **[Online Quize Application](https://github.com/ShravanDalavi/C_ProgrammingProjects/tree/main/projects/Mini%20Voting%20System)** |
 |	**19**	| **[Paint Application](https://github.com/ShravanDalavi/C_ProgrammingProjects/tree/main/projects/Paint%20Application)** |
 |	**20**	| **[Simple Calculator](https://github.com/ShravanDalavi/C_ProgrammingProjects/tree/main/projects/Simple%20Calculator)** |
-|	**21**	| **[](https://github.com/ShravanDalavi/C_ProgrammingProjects/tree/main/projects/Simple%20Calculator)** |
+|	**21**	| **[Student Gradebook](https://github.com/ShravanDalavi/C_ProgrammingProjects/tree/main/projects/Student%20Gradebook)** |
 
 
 ## How to Run
