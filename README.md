@@ -1,9 +1,9 @@
 # C_ProgrammingProjects
-
 ## Introduction
 Welcome to the C_ProgrammingProjects repository! This collection includes various projects implemented using the C programming language. Each project focuses on a specific concept, algorithm, or problem, providing hands-on experience and practical examples.
 ## Projects Included
 Here's a list of some of the projects included in this repository: 
+
 | **No.** | **Name** | 
 | ------- | -------- | 
 |	**01**	| **[Attendance Monitoring System](https://github.com/ShravanDalavi/C_ProgrammingProjects/tree/main/projects/Attendance%20Monitoring%20System)** |
@@ -83,7 +83,7 @@ You may use this tutorial freely at your own risk. See [LICENSE](./LICENSE).
   - GitHub: [Profile](https://github.com/ShravanDalavi)
 - Ashwini Sonawane
   - Contact: ashwinisonawane@gmail.com
-  - GitHub:  [Email](https://github.com/SonawaneAshwini)
+  - GitHub:  [Profile](https://github.com/SonawaneAshwini)
 <br>
 **If you like this tutorial, please [give it a ⭐ star](https://github.com/ShravanDalavi/Simple-Python-Mini-Projects).**
 <br>
