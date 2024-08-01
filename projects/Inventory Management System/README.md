@@ -43,7 +43,6 @@ gcc inventory_management.c -o inventory_management
 
 ## Output
 ```yaml
-
 Inventory Management System
 1. Add Item
 2. Display Items
