@@ -35,11 +35,9 @@ gcc calculator.c -o calculator
 5. Follow the on-screen instructions: The program will prompt you to enter the first number, an operator, and the second number. It will then display the result of the calculation.
 
 ## Output
-```bash 
+```yaml
 Enter first number: 10
 Enter an operator (+, -, *, /): +
 Enter second number: 5
 Result: 10.00 + 5.00 = 15.00
 ```
-
-
