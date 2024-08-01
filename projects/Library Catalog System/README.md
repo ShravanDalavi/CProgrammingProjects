@@ -55,7 +55,8 @@ Enter your choice:
 ```
 ## Output
 
-```bash 
+```yaml
+
 Library Catalog System
 1. Add Book
 2. Display Books
