@@ -76,4 +76,3 @@ Voting System Menu:
 3. Exit
 Enter your choice: 3
 ```
-
