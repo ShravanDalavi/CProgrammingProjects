@@ -53,7 +53,8 @@ Library Catalog System
 5. Exit
 Enter your choice: 
 ```
-## Example 
+## Output
+
 ```bash 
 Library Catalog System
 1. Add Book
