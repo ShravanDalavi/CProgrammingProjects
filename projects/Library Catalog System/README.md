@@ -56,7 +56,6 @@ Enter your choice:
 ## Output
 
 ```yaml
-
 Library Catalog System
 1. Add Book
 2. Display Books
