@@ -54,7 +54,6 @@ Library Catalog System
 Enter your choice: 
 ```
 ## Output
-
 ```yaml
 Library Catalog System
 1. Add Book
