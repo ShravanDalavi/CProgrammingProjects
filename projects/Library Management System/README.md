@@ -38,7 +38,8 @@ This project implements a simple Library Management System using the C programmi
 ## Output
 
 When you run the application, you will see the following menu:
-```bash 
+```yaml
+
 Library Management System
 
 1.Add Book
