@@ -41,7 +41,8 @@ gcc inventory_management.c -o inventory_management
 ```
 5. Follow the on-screen instructions: The program will display a menu with options to add, display, search, delete items, or exit the program. Enter the corresponding number to choose an option.
 
-## Example
+## Output
+
 ```bash
 Inventory Management System
 1. Add Item
