@@ -4,7 +4,6 @@
 This project implements a simple paint application using the SDL (Simple DirectMedia Layer) library. The application allows you to draw on a window using different colors and brush sizes. 
 
 ## Features
-
 - **Draw with Mouse:** Use the left mouse button to draw on the window.
 - **Change Colors:** Press `r` for red, `g` for green, `b` for blue, `k` for black, and `w` for white.
 - **Adjust Brush Size:** Press the up arrow key to increase the brush size and the down arrow key to decrease it.
