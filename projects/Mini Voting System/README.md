@@ -21,7 +21,6 @@ No additional modules are required. The code uses the standard C library.
 ```
 
 2. **Compile the Program:**
-
 ```sh
     gcc -o voting voting.c
 ```
