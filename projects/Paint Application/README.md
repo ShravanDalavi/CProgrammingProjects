@@ -35,7 +35,6 @@ This project implements a simple paint application using the SDL (Simple DirectM
 2. Follow the instructions provided to set up SDL2 with your compiler.
 
 ## How to Run the Script
-
 1. **Clone the Repository:**
 
 ```sh
