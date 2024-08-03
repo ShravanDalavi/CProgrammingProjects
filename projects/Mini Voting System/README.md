@@ -4,7 +4,6 @@
 This project implements a simple Voting System using the C programming language. The application allows you to initialize candidates, cast votes, and display voting results.
 
 ## Features
-
 - **Initialize Candidates:** Set up the list of candidates with their names.
 - **Cast Vote:** Users can cast their votes for the desired candidate.
 - **Display Results:** Show the number of votes each candidate has received.
