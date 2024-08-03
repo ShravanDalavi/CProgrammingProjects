@@ -42,8 +42,8 @@ gcc tourism_management.c -o tourism_management
 ```
 5. Follow the on-screen instructions: The program will display a menu with options to add tourists, display tourists, search tourists, delete tourists, or exit the program. Enter the corresponding number to choose an option.
 
-## Example
-```bash 
+## Output
+```yaml
 Tourism Management System
 1. Add Tourist
 2. Display Tourists
