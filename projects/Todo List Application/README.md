@@ -11,7 +11,6 @@ This project implements a basic to-do list application in C that allows users to
 - **Exit:** Exits the program.
 
 ## Required Modules
-
 - Standard I/O library (`stdio.h`)
 - Standard library (`stdlib.h`)
 - String library (`string.h`)
