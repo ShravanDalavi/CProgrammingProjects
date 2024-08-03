@@ -15,7 +15,6 @@ No additional modules are required. The code uses the standard C library.
 
 ## How to Run the Script
 1. **Clone the Repository:**
-
 ```sh
     git clone https://github.com/yourusername/mini-voting-system.git
     cd mini-voting-system
