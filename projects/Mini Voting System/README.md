@@ -14,7 +14,6 @@ This project implements a simple Voting System using the C programming language.
 No additional modules are required. The code uses the standard C library.
 
 ## How to Run the Script
-
 1. **Clone the Repository:**
 
 ```sh
