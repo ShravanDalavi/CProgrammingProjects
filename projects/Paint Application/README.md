@@ -29,7 +29,6 @@ This project implements a simple paint application using the SDL (Simple DirectM
 ```
 
 ### On Windows:
-
 1. Download the SDL2 development libraries from [libsdl.org](https://www.libsdl.org/download-2.0.php).
 2. Follow the instructions provided to set up SDL2 with your compiler.
 
