@@ -61,5 +61,4 @@ This project implements a simple paint application using the SDL (Simple DirectM
 ```
 
 ## Example Output
-
 When you run the application, a window will appear where you can draw using your mouse. The console will show any error messages if the SDL library fails to initialize or create the window/renderer.
