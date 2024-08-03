@@ -21,19 +21,18 @@ These libraries are typically included by default with most C compilers.
 No additional modules need to be installed. Ensure you have a C compiler (such as `gcc`) installed on your system.
 
 ## How to Run the Script
-
 1. **Clone the Repository:**
 
 ```sh
    git clone https://github.com/yourusername/todo-list-application.git
    cd todo-list-application
 ```
-1. Compile the Program:
+2. Compile the Program:
 Use the `gcc` compiler to compile the program:
 ```bash 
 gcc -o todo todo.c
 ```
-2. Run the Program:
+3. Run the Program:
 Execute the compiled program:
 ```bash 
 ./todo
