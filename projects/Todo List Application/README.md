@@ -5,7 +5,6 @@
 This project implements a basic to-do list application in C that allows users to manage a list of tasks. The application provides a text-based menu interface for user interaction, enabling users to add tasks, display all tasks, mark tasks as complete, and delete tasks.
 
 ## Features
-
 - **Add a Task:** Allows the user to add a new task to the to-do list.
 - **Display Tasks:** Displays all the tasks currently stored in the to-do list along with their status (complete or incomplete).
 - **Mark Task as Complete:** Allows the user to mark a task as complete.
