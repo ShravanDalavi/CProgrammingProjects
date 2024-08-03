@@ -1,5 +1,4 @@
 # Mini Voting System
-
 ## Description
 This project implements a simple Voting System using the C programming language. The application allows you to initialize candidates, cast votes, and display voting results.
 
