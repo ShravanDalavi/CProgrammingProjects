@@ -1,7 +1,6 @@
 # Paint Application
 
 ## Description
-
 This project implements a simple paint application using the SDL (Simple DirectMedia Layer) library. The application allows you to draw on a window using different colors and brush sizes. 
 
 ## Features
