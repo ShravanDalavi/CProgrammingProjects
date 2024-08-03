@@ -11,7 +11,6 @@ This project implements a simple Voting System using the C programming language.
 - **Display Results:** Show the number of votes each candidate has received.
 
 ## Required Modules
-
 - Standard C Library
 
 ## How to Install Required Modules
