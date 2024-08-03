@@ -13,7 +13,6 @@ This project implements a basic to-do list application in C that allows users to
 - Standard I/O library (`stdio.h`)
 - Standard library (`stdlib.h`)
 - String library (`string.h`)
-
 These libraries are typically included by default with most C compilers.
 
 ## How to Install Required Modules
