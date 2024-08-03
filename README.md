@@ -27,7 +27,7 @@ Here's a list of some of the projects included in this repository:
 |	**20**	| **[Simple Calculator](https://github.com/ShravanDalavi/C_ProgrammingProjects/tree/main/projects/Simple%20Calculator)** |
 |	**21**	| **[Student Gradebook](https://github.com/ShravanDalavi/C_ProgrammingProjects/tree/main/projects/Student%20Gradebook)** |
 |	**22**	| **[Student Record Management System](https://github.com/ShravanDalavi/C_ProgrammingProjects/tree/main/projects/Student%20Record%20Management%20System)** |
-|	**23**	| **[ToDo List Application](https://github.com/ShravanDalavi/C_ProgrammingProjects)** |
+|	**23**	| **[ToDo List Application](https://github.com/ShravanDalavi/C_ProgrammingProjects/blob/main/projects/Todo%20List%20Application/README.md)** |
 
 ## How to Run
 To run any of these projects, follow these general steps:
