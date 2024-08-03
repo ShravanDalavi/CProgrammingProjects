@@ -45,7 +45,6 @@ This project implements a simple paint application using the SDL (Simple DirectM
 ```
 
 2. **Compile the Program:**
-
 ```sh
     gcc -o paint paint.c -lSDL2
 ```
