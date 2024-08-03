@@ -26,7 +26,6 @@ No additional modules are required. The code uses the standard C library.
 ```
 
 3. **Run the Program:**
-
 ```sh
     ./voting
 ```
