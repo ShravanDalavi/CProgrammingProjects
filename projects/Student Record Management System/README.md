@@ -35,7 +35,6 @@ gcc student_management.c -o student_management
 ./student_management
 ```
 5. Follow the on-screen instructions: The program will display a menu with options to add, display, search, delete students, or exit the program. Enter the corresponding number to choose an option.
-
 ## Output
 ```yaml
 Student Record Management System
