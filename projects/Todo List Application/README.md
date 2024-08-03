@@ -54,8 +54,8 @@ Todo List Application
 Enter your choice: 
 ```
 
-## Example 
-```bash
+## Output
+```yaml
 Todo List Application
 1. Add Task
 2. Display Tasks
