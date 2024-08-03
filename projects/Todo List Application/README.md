@@ -1,7 +1,6 @@
 # To-Do List Application
 
 ## Description
-
 This project implements a basic to-do list application in C that allows users to manage a list of tasks. The application provides a text-based menu interface for user interaction, enabling users to add tasks, display all tasks, mark tasks as complete, and delete tasks.
 
 ## Features
