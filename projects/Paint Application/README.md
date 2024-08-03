@@ -13,7 +13,6 @@ This project implements a simple paint application using the SDL (Simple DirectM
 - SDL2 library
 
 ## How to Install Required Modules
-
 ### On Ubuntu:
 1. Update your package list and install the SDL2 library:
 
