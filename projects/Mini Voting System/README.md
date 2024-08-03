@@ -12,7 +12,6 @@ This project implements a simple Voting System using the C programming language.
 - Standard C Library
 
 ## How to Install Required Modules
-
 No additional modules are required. The code uses the standard C library.
 
 ## How to Run the Script
