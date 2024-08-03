@@ -10,7 +10,6 @@ This project implements a simple paint application using the SDL (Simple DirectM
 - **Quit Application:** Close the window or press the close button.
 
 ## Required Modules
-
 - SDL2 library
 
 ## How to Install Required Modules
