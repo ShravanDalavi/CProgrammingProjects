@@ -34,7 +34,6 @@ No additional modules are required. The code uses the standard C library.
 ```
 
 ## Output
-
 When you run the application, you will see the following prompts and output:
 ```yaml
 Enter the number of candidates: 3
