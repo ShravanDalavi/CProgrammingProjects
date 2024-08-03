@@ -20,7 +20,6 @@ This project implements a simple paint application using the SDL (Simple DirectM
     sudo apt update
     sudo apt install libsdl2-dev
 ```
-
 ### On macOS:
 1. Use Homebrew to install the SDL2 library:
 
