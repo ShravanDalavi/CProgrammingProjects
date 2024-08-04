@@ -53,8 +53,8 @@ Weather Monitoring System
 5. Exit
 Enter your choice: 
 ```
-## Example
-```bash 
+## Output
+```yaml
 Weather Monitoring System
 1. Add Weather Record
 2. Display Weather Records
