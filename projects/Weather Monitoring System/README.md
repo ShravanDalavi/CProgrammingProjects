@@ -21,7 +21,6 @@ These libraries are typically included by default with most C compilers.
 No additional modules need to be installed. Ensure you have a C compiler (such as `gcc`) installed on your system.
 
 ## How to Run the Script
-
 1. **Clone the Repository:**
 
 ```sh
