@@ -11,7 +11,6 @@ This project implements a basic weather monitoring system in C that can store, d
 - **Exit:** Exits the program.
 
 ## Required Modules
-
 - Standard I/O library (`stdio.h`)
 - Standard library (`stdlib.h`)
 - String library (`string.h`)
@@ -19,7 +18,6 @@ This project implements a basic weather monitoring system in C that can store, d
 These libraries are typically included by default with most C compilers.
 
 ## How to Install Required Modules
-
 No additional modules need to be installed. Ensure you have a C compiler (such as `gcc`) installed on your system.
 
 ## How to Run the Script
