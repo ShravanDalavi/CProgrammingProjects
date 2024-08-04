@@ -1,5 +1,4 @@
 # Basic Weather Monitoring System
-
 ## Description
 This project implements a basic weather monitoring system in C that can store, display, and manage weather data. The system provides a text-based menu interface for user interaction.
 
