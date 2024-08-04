@@ -4,7 +4,6 @@
 This project implements a basic weather monitoring system in C that can store, display, and manage weather data. The system provides a text-based menu interface for user interaction.
 
 ## Features
-
 - **Add a Weather Record:** Allows the user to add a new weather record by entering the city name, temperature, humidity, and pressure.
 - **Display Weather Records:** Displays all the weather records currently stored in the system.
 - **Search for a Weather Record:** Allows the user to search for a weather record by city name and displays the weather details if found.
