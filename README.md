@@ -44,7 +44,6 @@ Each project typically includes a 'README.md' file with specific instructions on
 Replace repository-name with the actual repository name and executable_name with the name of the compiled executable specific to each project.
 
 ### 3. General Steps:
-
 - Navigate to the project directory.
 
 - Compile the program using a C compiler (e.g., gcc).
