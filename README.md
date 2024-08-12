@@ -4,7 +4,6 @@ Welcome to the C_ProgrammingProjects repository! This collection includes variou
 
 ## Projects Included
 Here's a list of some of the projects included in this repository: 
-
 | **No.** | **Name** | 
 | ------- | -------- | 
 |	**01**	| **[Attendance Monitoring System](https://github.com/ShravanDalavi/C_ProgrammingProjects/tree/main/projects/Attendance%20Monitoring%20System)** |
