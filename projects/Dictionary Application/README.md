@@ -18,7 +18,6 @@ This project implements a basic dictionary application in C that allows users to
 These libraries are typically included by default with most C compilers.
 
 ## How to Install Required Modules
-
 No additional modules need to be installed. Ensure you have a C compiler (such as `gcc`) installed on your system.
 
 ## How to Run the Script
