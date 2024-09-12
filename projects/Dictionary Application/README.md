@@ -4,7 +4,6 @@
 This project implements a basic dictionary application in C that allows users to manage a list of words and their definitions. The application provides a text-based menu interface for user interaction, enabling users to add words, display all words, search for a word by its name, and delete words from the dictionary.
 
 ## Features
-
 - **Add a Word:** Allows the user to add a new word along with its definition to the dictionary.
 - **Display Words:** Displays all the words currently stored in the dictionary along with their definitions.
 - **Search Word:** Allows the user to search for a word by its name and displays its definition if found.
