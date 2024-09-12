@@ -1,7 +1,6 @@
 # Simple Dictionary Application
 
 ## Description
-
 This project implements a basic dictionary application in C that allows users to manage a list of words and their definitions. The application provides a text-based menu interface for user interaction, enabling users to add words, display all words, search for a word by its name, and delete words from the dictionary.
 
 ## Features
