@@ -65,6 +65,7 @@ Make sure you have a C compiler installed (e.g., GCC). Some projects may require
 
 1. Go [**`here`**](https://github.com/ShravanDalavi/C_ProgrammingProjects) and click the big green ➞  **`Code`** button in the top right of the page, then click ➞ [**`Download ZIP`**](https://github.com/shravandalavi/C_ProgrammingProjects/archive/refs/heads/main.zip).
 
+![image](https://github.com/user-attachments/assets/e95f8535-db25-4f10-b0d5-64085e28fb92)
 
 
 2. Extract the ZIP and open it. Unfortunately I don't have any more specific instructions because how exactly this is done depends on which operating system you run.    
